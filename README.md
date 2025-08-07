@@ -4,10 +4,10 @@
 Llevo aprendiendo a programar desde hace 2 años, desde que comencé mi carrera como Técnico Superior Universitario. Me llamó la atención esta área porque me gustan los retos y vi la programación como una oportunidad emocionante. Empecé usando Java y HTML, pero con el tiempo descubrí un gran interés por el desarrollo backend. Mi objetivo es conseguir un trabajo remoto próximamente.
 
 - 🌍 Estoy ubicado en Puebla, México  
-📧 Puedes contactarme en moralesdaniel2901@gmail.com
-🧠 Estoy aprendiendo Programación Orientada a Objetos en Python
-🤝 Estoy abierto a colaborar en proyectos que representen un reto y me generen experiencias
-⚡ Por las noches combato el crimen 🦇
+- 📧 Puedes contactarme en moralesdaniel2901@gmail.com
+- 🧠 Estoy aprendiendo Programación Orientada a Objetos en Python
+- 🤝 Estoy abierto a colaborar en proyectos que representen un reto y me generen experiencias
+- ⚡ Por las noches combato el crimen 🦇
 
 ---
 
