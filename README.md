@@ -43,7 +43,7 @@ Llevo aprendiendo a programar desde hace 2 años, desde que comencé mi carrera 
   <a href="https://www.github.com/danielMorales2901" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/daniel-olivares-morales" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/daniel-olivares-morales-3a789a313" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 </p>
